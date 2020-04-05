@@ -1,0 +1,22 @@
+1152 - 任天堂明星大乱斗 特别版【欧】v7.0.0
+1152 - Super Smash Bros. Ultimate v7.0.0
+01006A800016E000
+9FE4E3C363968930
+Lucky Dearly
+P1无限HP | P1一击死 | P1正常初始HP | 黄金最大 | SP最大
+R4BBS论坛 http://www.r4bbs.com/   牛GG测评组 http://www.niugage.com/
+----------------------------------------------------
+[P1 Infinite HP]
+04000000 04CAB6BC CF000000
+[P1 Instant Kill]
+04000000 04CAB6BC 4F000000
+[P1 Infinite Normal Starting HP]
+04000000 04CAB6BC 00000000
+[9.999.999 Gold]
+580F0000 04f73200
+780F1000 0006443C
+640F0000 00000000 0098967F
+[9.999.999 Sp]
+580F0000 04f73200
+780F1000 00131934
+680F0000 00000000 0098967F
