@@ -2,8 +2,8 @@ X=7XE[ 怪物避难所【全语言】$TX0.1
 P^Rj Cet!noM1.0.Gvryr%LD
 0wF$b_TtUt086qw0
 X8BR4VT}dpZSWU94
-Pj、D[^P_ke<ol%QDRUwRZPl'3+、T
-dE R^Rt限无&Vr|EPq限无`3 E 大最力能全P2 O RWX|限无P]E8 `{限无i2 |E大最力能全`1 O X_a(限无5u L `{限无aGE.O速加动移 L 跳球月4按r|E大最钱金 O 钱金CPgZPdE 点能技99 |E级满后战大最力能全`7 E an3"限无i7 L iq限无5eO|d大最力能全i6 |E3naM限无c6 E a>限无?SdE 大最力能全aCE.Oa*X}限无c5 MV5H限无P5 O 大最力能全5fO|dX^R}限无i4V|r?-限无`4 O 大最力能全?V
+、TPj、D[^P_ke<ol%B盗怪、QDRUwRZPl'3+
+战后满级E| 99技能点 EdPZgPC金钱 O 金钱最大E|r按4月球跳 L 移动加速O.EGa无限{` L u5无限(a_X O 1`全能力最大E| 2i无限{` 8E]P无限|XWR O 2P全能力最大 E 3`无限qPE|rV&无限tR^R EdV?全能力最大 O 4`无限-?r|V4i无限}R^Xd|Of5全能力最大 O 5P无限H5VM 5c无限}X*aO.ECa全能力最大 EdS?无限>a E 6c无限Man3E| 6i全能力最大d|Oe5无限qi L 7i无限"3na E 7`全能力最大O.E道具不减 L 技能点不减r|V经验值 4倍 Ed经验值EN倍 E 经验值1r倍O.E我方qi不减 L 秒杀O开启VM 秒杀 关闭 8E我方6&不减 O 无限跳（需锁定）VM 地图中魔物无法移动r开启 E 地图中魔物无法移动E关闭
 OEkT_P.@[[4rK%wwk/:CDGQ 坛论6B-QRYm=cK!^QTEZW.Fww}@_4MD[ 组评测v1牛r
 ------[H-BHi--------[H-BHi----[H-BHi--------[H-BHi--
 R _\OT:E*a([n\UEtaBOr!MV
@@ -268,3 +268,60 @@ s]_FUF00 00000vV,
 0000 00FTF_Qru07200FUr_Ut0
 0000 00FTF_Qru07200FUr_Ut0
 0000 00FUF_Qru07200FUr_Ut0
+具道[+减不
+4100 00FUB_Qt3v30F17Wr,Twx
+[技能点不减l
+v000 00FUB_Qt801000GPr_#E3
+v000 00FUB_Qt801000GPrWWF3
+值验经[d倍BE
+8v20 00FUB_Qtu001223Tr_QC7
+8v20 00FUB_Qt1280F23Tr[QC7
+8v20 00FUB_Qt0080123TrWQC7
+8v20 00FUB_Qt0s30F5@!r,QC7
+7100 00FUB_Qtv8344sB\rWUE6
+值验经[d倍NE
+8v20 00FUB_Qtu001423Tr_QC7
+8v20 00FUB_Qt1280F23Tr[QC7
+8v20 00FUB_Qt0080123TrWQC7
+8v20 00FUB_Qt0s30F5@!r,QC7
+7100 00FUB_Qtv8344sB\rWUE6
+值验经[d倍@T
+8v20 00FUB_Qtu001623Tr_QC7
+8v20 00FUB_Qt1280F23Tr[QC7
+8v20 00FUB_Qt0080123TrWQC7
+8v20 00FUB_Qt0s30F5@!r,QC7
+7100 00FUB_Qtv8344sB\rWUE6
+H方我[d减不5
+8v20 00FUB_Qt862654OVr_UC7
+8v20 00FUB_Qt840000BVr[UC7
+8v20 00FUB_Qt5v30F17WrWUC7
+8v20 00FUB_Qt86v114O'r,UC7
+8v20 00FUB_Qt0s30F5@!r_TC7
+u200 00FUB_Qt5q08|pB\r,S}7
+[秒杀r开启l
+8v20 00FUB_Qtr62654OVr[TC7
+8v20 00FUB_Qtr40000CVrWTC7
+8v20 00FUB_Qt5v30807Wr,TC7
+8v20 00FUB_Qt8010514Qr_WC7
+8v20 00FUB_Qt0s30F5@!r[WC7
+u200 00FUB_Qt8q08|pB\r[R}7
+[秒杀r关闭l
+u200 00FUB_Qt8010514Qr[R}7
+S方我[d减不5
+8v20 00FUB_Qt400654OVrWWC7
+8v20 00FUB_Qt440000BVr,WC7
+8v20 00FUB_Qt1u30F17Wr_VC7
+8v20 00FUB_Qt6v30307Wr[VC7
+8v20 00FUB_Qt0s30F5@!rWVC7
+u200 00FUB_Qt6qw8|pB\r_\q4
+（跳限无[n）定锁需
+2300 00FUB_Qt0669002'r[Sw{
+b_U|20FU
+2300 00FUB_Qt9669002'r[Sw{
+b_Uv00FU
+无物魔中图地[d启开 动移法
+u100 00FUB_Qt0u30723Tr[$q{
+u100 00FUB_Qt0u30723Tr[ q{
+无物魔中图地[d闭关 动移法
+u100 00FUB_Qt766x92B\r[$q{
+u100 00FUB_Qt756x92B\r[ q{
