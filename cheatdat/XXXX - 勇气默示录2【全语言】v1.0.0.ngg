@@ -3,7 +3,7 @@ Bra$elH }VVREU0E&IEv1.0.0
 0r2Sb_TtUt062301
 F77PE+PtWw51wr02
 ZDFUVGer、-盗怪ROV_ej&ap、W_
-得获O|d61K验经得获 |Ejx验经得获 L 4A验经得获O|d2H验经得获 MVT*验经得获 O 除解制限技杀必O|d大最数点c{方我V|r减不Pt方我 O 减不&-方我E8 关 减不具道 |E减不具道 L 减不钱金 |E大最钱金23Aa<得获O|d61K`y得获 |Ejx5J得获 L 4Aa<得获O|d2Hcz得获 MVT*?/得获 O 23A钱金得获O|d61K钱金得获 |Ejx钱金得获 L 4A钱金得获O|d2H钱金得获 MVT*钱金得获 O 23A验经
+法无人敌E.O闭关 击暴法无人敌 |E启开E击暴法无人敌 E 闭关r中命定必击攻 O 启开V中命定必击攻 O 除解制限技杀必O|d大最数点c{方我V|r减不Pt方我 O 闭关V减不?-dE 减不cq方我V|r关E减不具道 O 开 减不具道E8 闭关 杀秒 MV启开O杀秒 L 减不钱金 |E大最钱金jx钱金得获 L 4A钱金得获O|d2H钱金得获 MV倍j数点业职 O 倍4数点业职r|E倍2数点业职 E 倍]值验经dE 倍4值验经 |E倍]值验经 O 闭关 能技用使法无人敌 O 启开 能技用使法无人敌 O 闭关 误失定必攻普敌 L 启开 误失定必攻普敌dE 闭关 动行法无人敌O|d启开 动行
 OEkT_P.@[[4rK%wwk/:CDGQ 坛论6B-QRYm=cK!^QTEZW.Fww}@_4MD[ 组评测v1牛r
 ------[H-BHi--------[H-BHi----[H-BHi--------[H-BHi--
 [(a*E;^W\Jm
@@ -15,6 +15,12 @@ s]_bUF00 00000tV_
 0000 00FUb_Qru76989FUr_Ut0
 钱金[+减不
 9900 00FUB_Qt8010F14Qr['E{
+[秒杀r开启l
+6900 00FUB_Qt120008DPr, BF
+7900 00FUB_Qt120008DPrWTp2
+[秒杀r关闭l
+6900 00FUB_Qt1u30007Wr, BF
+7900 00FUB_Qt1u30007WrWTp2
 具道[+减不
 vw30 00FUB_Qt1u30517Wr_Ur3
 vw30 00FUB_Qtu300614Sr[Ur3
@@ -30,6 +36,8 @@ vw30 00FUB_Qt122{187TrWTr3
 vw30 00FUB_Qt3v30107Wr,Tr3
 vw30 00FUB_Qt0s30F5@!r_Wr3
 8900 00FUB_Qtpqw91uB\r_SF{
+[-?不减V关闭d
+8900 00FUB_Qt3v30107Wr_SF{
 M方我[d减不5
 vw30 00FUB_Qt110614O'r[Wr3
 vw30 00FUB_Qtu300114SrWWr3
@@ -42,39 +50,79 @@ vw30 00FUB_Qt0s30F5@!r[Vr3
 [必杀技限制解除d
 8900 00FUB_Qt88p008DPr[$EF
 8900 00FUB_Qtu10230C!r_ EF
-P7 [d1xE
-8900 00FUb_Qt8010104Ur['uz
-P7 [d2xE
-8900 00FUb_Qt8050104Ur['uz
-P7 [d4xE
-8900 00FUb_Qt8090104Ur['uz
-P7 [d8xE
-8900 00FUb_Qt80w0104Ur['uz
-[ 7PEx16d
-8900 00FUb_Qt8011104Ur['uz
-[ 7PEx32d
-8900 00FUb_Qt8051104Ur['uz
-e<o([n1A y
-9900 00FUb_Qt8010104Ur[PE{
+[攻击必定命中 开启m
+7900 00FUB_Qt000008DPrWTr4
+[攻击必定命中 关闭m
+7900 00FUB_Qt009604O'rWTr4
+[敌人无法暴击 开启m
+7900 00FUB_Qt000008DPr_Wr4
+[敌人无法暴击 关闭m
+7900 00FUB_Qt00w604O'r_Wr4
+[敌人无法行动 开启m
+7900 00FUB_Qt900300O'rWRr4
+[敌人无法行动 关闭m
+7900 00FUB_Qt800300O'rWRr4
+定必攻普敌[n启开 误失
+7900 00FUB_Qt000008DPr_Tr4
+定必攻普敌[n闭关 误失
+7900 00FUB_Qt005604O'r_Tr4
+[敌人无法使用技能 开启m
+6900 00FUB_Qt140008DTr_TCF
+7900 00FUB_Qt140008DTr,Vp2
+[敌人无法使用技能 关闭m
+6900 00FUB_Qt1u30007Wr_TCF
+7900 00FUB_Qt1u30007Wr,Vp2
+[经验值W倍l
+vw30 00FUB_Qt500000FTrWVr3
+vw30 00FUB_Qt5q4104O'r,Vr3
+vw30 00FUB_Qt80w7504Tr_Qr3
+vw30 00FUB_Qtu110904Sr[Qr3
+vw30 00FUB_Qt0s30F5@!rWQr3
+vw30 00FUB_Qt200000FUr,Qr3
+s300 00FUB_Qt3u6z8tB\r,$A1
+[经验值Q倍l
+vw30 00FUB_Qt500000FTrWVr3
+vw30 00FUB_Qt5q4104O'r,Vr3
+vw30 00FUB_Qt80w7504Tr_Qr3
+vw30 00FUB_Qtu110904Sr[Qr3
+vw30 00FUB_Qt0s30F5@!rWQr3
+vw30 00FUB_Qt400000FUr,Qr3
+s300 00FUB_Qt3u6z8tB\r,$A1
+[经验值]倍l
+vw30 00FUB_Qt500000FTrWVr3
+vw30 00FUB_Qt5q4104O'r,Vr3
+vw30 00FUB_Qt80w7504Tr_Qr3
+vw30 00FUB_Qtu110904Sr[Qr3
+vw30 00FUB_Qt0s30F5@!rWQr3
+vw30 00FUB_Qt800000FUr,Qr3
+s300 00FUB_Qt3u6z8tB\r,$A1
+点业职[d倍D数
+vw30 00FUB_Qt500000FTr_Pr3
+vw30 00FUB_Qt5q4104O'r[Pr3
+vw30 00FUB_Qt80w7504TrWPr3
+vw30 00FUB_Qtu110904Sr,Pr3
+vw30 00FUB_Qt0s30F5@!r_Sr3
+vw30 00FUB_Qt200000FUr[Sr3
+s300 00FUB_Qt9t6z8tB\r, A1
+点业职[d倍B数
+vw30 00FUB_Qt500000FTr_Pr3
+vw30 00FUB_Qt5q4104O'r[Pr3
+vw30 00FUB_Qt80w7504TrWPr3
+vw30 00FUB_Qtu110904Sr,Pr3
+vw30 00FUB_Qt0s30F5@!r_Sr3
+vw30 00FUB_Qt400000FUr[Sr3
+s300 00FUB_Qt9t6z8tB\r, A1
+点业职[d倍N数
+vw30 00FUB_Qt500000FTr_Pr3
+vw30 00FUB_Qt5q4104O'r[Pr3
+vw30 00FUB_Qt80w7504TrWPr3
+vw30 00FUB_Qtu110904Sr,Pr3
+vw30 00FUB_Qt0s30F5@!r_Sr3
+vw30 00FUB_Qt800000FUr[Sr3
+s300 00FUB_Qt9t6z8tB\r, A1
 e<o([n2A y
 9900 00FUb_Qt8050104Ur[PE{
 e<o([n4A y
 9900 00FUb_Qt8090104Ur[PE{
 e<o([n8A y
 9900 00FUb_Qt80w0104Ur[PE{
-[(o<ey A16m
-9900 00FUb_Qt8011104Ur[PE{
-[(o<ey A32m
-9900 00FUb_Qt8051104Ur[PE{
-[/?rxGl
-q900 00FUb_Qt8010104Ur[PC1
-[/?rxDl
-q900 00FUb_Qt8050104Ur[PC1
-[/?rxBl
-q900 00FUb_Qt8090104Ur[PC1
-[/?rxNl
-q900 00FUb_Qt80w0104Ur[PC1
-r?/[d6Gx
-q900 00FUb_Qt8011104Ur[PC1
-r?/[d2Ex
-q900 00FUb_Qt8051104Ur[PC1
