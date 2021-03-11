@@ -2,8 +2,8 @@ vUWfE[ 牧场物语 橄榄镇与希望大地【中】E1.0.v
 vUWfE[ {VXEY_ Mon=gaEXKZ: OU-ver1oFW G_ {P&oO<oVuXPPXZ OuK_|W
 0u4Ub_TtUt0s6q21
 ]7EP`bUqRp0U2649
-&bh3rk1
-无限'PE| 金钱最大 L 第三行空格C材料数量999 8E行a格C道具变10级品质l按5RLVM 水壶满 L qU_可乐硬币 E 500可乐嘭发现点数 E 9级农田 8E[级房子 E 第1技能等级最大r|V第2技能等级最大d|O第V技能等级最大 L 第Q技能等级最大 O 第5技能等级最大VM 第6技能等级最大O.E第7技能等级最大 8E第j技能等级最大 O 第}技能等级最大 E 第10技能等级最大VM 第11技能等级最大r|V第12技能等级最大E|r全员满好感1 O 全员满好感WVM 可以遇见全员uE|r可以遇见全员2
+&bh3rk1、怪盗r
+无限'PE| 金钱最大 L 第三行空格C材料数量999 8E行a格C道具变10级品质l按5RLVM 水壶满 L qU_可乐硬币 E 500可乐嘭发现点数 E 9级农田 8E[级房子 E 第1技能等级最大r|V第2技能等级最大d|O第V技能等级最大 L 第Q技能等级最大 O 第5技能等级最大VM 第6技能等级最大O.E第7技能等级最大 8E第j技能等级最大 O 第}技能等级最大 E 第10技能等级最大VM 第11技能等级最大r|V第12技能等级最大E|r全员满好感1 O 全员满好感WVM 可以遇见全员uE|r可以遇见全员2 L 体力不减E| 金钱不减 L 水壶不减E| 无限送礼 L 可乐币不减VM 可乐嘭点数不减E|r时停 cu开启 L 时停OZ7关闭 E 道具不减d开启r|V道具不减 关闭 8E熟练度D倍 E 熟练度4倍E|r熟练度8倍 L 居民好感度`倍VM 居民好感度4倍E|r居民好感度8倍 L 动物好感度D倍 E 动物好感度Q倍r|V动物好感度8倍 8E动物欢乐度2倍 L 动物欢乐度f倍VM 动物欢乐度8倍E|r抚摸始终可增加好感 8E道具品质最大 开启 L 道具品质最大 关闭
 OEkT_P.@[[4rK%wwk/:CDGQ 坛论6B-QRYm=cK!^QTEZW.Fww}@_4MD[ 组评测v1牛r
 ------[H-BHi--------[H-BHi----[H-BHi--------[H-BHi--
 l Ytl3e-[]de0P]Z\]
@@ -648,3 +648,71 @@ q]_ETF00 00000tR_
 q]_ETF00 00000qTW
 s]_EUF00 00000tT,
 0000 00FUE_Qr001000FUr_Ut0
+力体[+减不
+v710 00FUB_Qt0097042'r[TC{
+钱金[+减不
+v710 00FUB_Qt5v30F17Wr,&s|
+壶水[+减不
+v810 00FUB_Qt0u30517WrW!q5
+限无[+礼送
+0r20 00FUB_Qtu10230C!r[]}5
+[可乐币不减l
+v710 00FUB_Qt5v30F17Wr,TA|
+[可乐嘭点数不减d
+v710 00FUB_Qt3v30F17Wr,TC|
+[时停r?:开启d
+b_U|00GU
+qr20 00FUB_Qt3v30F17$r,TBF
+b_Uv00FU
+[时停r?$关闭d
+b_U|00DU
+qr20 00FUB_Qt3100873\r,TBF
+b_Uv00FU
+[道具不减V开启d
+v910 00FUB_Qt5v30F17WrWRD5
+[道具不减V关闭d
+v910 00FUB_Qt5v30207WrWRD5
+[熟练度W倍l
+v710 00FUB_Qt3v70204Ur,&s|
+[熟练度Q倍l
+v710 00FUB_Qt3vq0204Ur,&s|
+[熟练度]倍l
+v710 00FUB_Qt3vu0204Ur,&s|
+[居民好感度2倍d
+0r20 00FUB_Qt0270614Ur,Vs5
+[居民好感度4倍d
+0r20 00FUB_Qt02q0614Ur,Vs5
+[居民好感度8倍d
+0r20 00FUB_Qt02u0614Ur,Vs5
+[动物好感度2倍d
+8q10 00FUB_Qt4v70104Ur_QD9
+9q10 00FUB_Qt4v70104Ur_SC8
+[动物好感度4倍d
+8q10 00FUB_Qt4vq0104Ur_QD9
+9q10 00FUB_Qt4vq0104Ur_SC8
+[动物好感度8倍d
+8q10 00FUB_Qt4vq0104Ur_QD9
+9q10 00FUB_Qt4vu0104Ur_SC8
+[动物欢乐度2倍d
+8q10 00FUB_Qt4v70104Ur_QD9
+8q10 00FUB_Qt4v70104Ur_Utx
+[动物欢乐度4倍d
+8q10 00FUB_Qt4vq0104Ur_QD9
+8q10 00FUB_Qt4vq0104Ur_Utx
+[动物欢乐度8倍d
+8q10 00FUB_Qt4vu0104Ur_QD9
+8q10 00FUB_Qt4vu0104Ur_Utx
+[抚摸始终可增加好感m
+9q10 00FUB_Qt100000BTr,&wx
+8q10 00FUB_Qt100000BTr[TDz
+8q10 00FUB_Qt800008DPr,TDz
+[道具品质最大 开启m
+7q20 00FUB_Qtq08104O'r_P}3
+7q20 00FUB_Qtu79200GRr[P}3
+7q20 00FUB_Qtr60000BPrWP}3
+7q20 00FUB_Qtq41008DPr,P}3
+7q20 00FUB_Qtq08100O'r_S}3
+7q20 00FUB_Qt0s30F5@!r[S}3
+4620 00FUB_Qtvs4x41BTrWTrx
+[道具品质最大 关闭m
+4620 00FUB_Qt0s30F5@!rWTrx
