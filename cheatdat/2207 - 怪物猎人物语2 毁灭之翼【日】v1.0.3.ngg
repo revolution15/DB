@@ -3,7 +3,7 @@ vW_eE[ tV]CGUKd-u<teC jG_AY\7E]hE!XW^@ \V Rui<Ev1.0.3
 074&b_TtUt0834w0
 |4DUc[]vR}0261r{
 怪盗-
-金钱不减E| 乘骑等级~QAd|O牵绊槽|XA 开启 Ed牵绊槽(aI 关闭 O 经验值]倍E| 经验值4倍 Ed经验值]倍 E 经验值16倍E|r秒杀 开启 L 秒杀d关闭r|V怪物必定归巢 Ed子弹t蓄力槽tXK O 子弹C蓄力槽还原 E 道具不减反增O.E道具效果还原 L 祈祷壶时间不减 E 生产强化无需素材E| 兑换时瓶子王冠rSYr|V我方qc不减 开启E|r我方yi不减 关闭 8E怪物成长药快速满级 L 随从兽图鉴全开 E 牵绊基因图鉴全开E| 讨伐类副任务立即完成r|V孵化时无视等级解锁基因r|V大地图我方怪物体型变小r|V大地图我方怪物体型变大r|V大地图我方怪物体型还原r|V60 u`` EdV_r#&b E 按L+←k→@↑游戏速度A0.5/AvJxcE| 按右摇杆游戏速度x]
+金钱不减E| 乘骑等级~QAd|O牵绊槽|XA 开启 Ed牵绊槽(aI 关闭 O 经验值]倍E| 经验值4倍 Ed经验值]倍 E 经验值16倍E|r秒杀 开启 L 秒杀d关闭r|V2倍伤害 开启 8E[倍伤害 开启 L 8倍伤害O开启VM 伤害倍率 关闭E|r怪物必定归巢 O 无限摸蛋r开启 E 无限摸蛋 关闭O.E子弹&蓄力槽~QAd|O子弹P蓄力槽还原 L 道具不减反增 E 道具效果还原E|r祈祷壶时间不减 L 生产强化无需素材 O 兑换时瓶子王冠\O8 E 我方xi不减O开启VM 我方xc不减d关闭r|V怪物图鉴全开 Ed随从兽图鉴全开 O 牵绊基因图鉴全开VM 怪物成长药快速满级r|V寒暑气候影响无效化E|r讨伐类副任务立即完成d|O孵化时无视等级解锁基因d|O大地图我方怪物体型变小d|O大地图我方怪物体型变大d|O大地图我方怪物体型还原d|O按)]←/→/↓游戏速度x^|PYI2/K1 L rUOF5% E 30 viSE|r按:+←/→/↑游戏速度xbKC/A2/H1 Ed按右摇杆游戏速度K2
 OEkT_P.@[[4rK%wwk/:CDGQ 坛论6B-QRYm=cK!^QTEZW.Fww}@_4MD[ 组评测v1牛r
 ------[H-BHi--------[H-BHi----[H-BHi--------[H-BHi--
 钱金[+减不
@@ -60,8 +60,38 @@ uq00 00FUB_Qt009696NVr[QC|
 3p00 00FUB_Qtrq5x92B\r,Rp4
 [秒杀r关闭l
 3p00 00FUB_Qt92p300DTr,Rp4
+[W倍伤害V开启d
+9610 00FUB_Qt108214OVr_]B}
+9610 00FUB_Qt160000BVr[]B}
+9610 00FUB_Qt240008DPrW]B}
+9610 00FUB_Qt94p7904Tr,]B}
+9610 00FUB_Qt3v30007$r_\B}
+9610 00FUB_Qt0s30F5@!r[\B}
+3p00 00FUB_Qt0s5x92B\r_]p4
+[Q倍伤害V开启d
+9610 00FUB_Qt108214OVr_]B}
+9610 00FUB_Qt160000BVr[]B}
+9610 00FUB_Qt280008DPrW]B}
+9610 00FUB_Qt94p7904Tr,]B}
+9610 00FUB_Qt3v30007$r_\B}
+9610 00FUB_Qt0s30F5@!r[\B}
+3p00 00FUB_Qt0s5x92B\r_]p4
+[]倍伤害V开启d
+9610 00FUB_Qt108214OVr_]B}
+9610 00FUB_Qt160000BVr[]B}
+9610 00FUB_Qt201008DPrW]B}
+9610 00FUB_Qt94p7904Tr,]B}
+9610 00FUB_Qt3v30007$r_\B}
+9610 00FUB_Qt0s30F5@!r[\B}
+3p00 00FUB_Qt0s5x92B\r_]p4
+[伤害倍率V关闭d
+3p00 00FUB_Qt3v30007$r_]p4
 必物怪[d巢归定
 tq00 00FUB_Qt08p008DPr,Tv5
+[无限摸蛋V开启d
+q100 00FUB_Qt0s30F5@!r_Qu0
+[无限摸蛋V关闭d
+q100 00FUB_Qtuv3040G!r_Qu0
 [子弹t蓄力槽tXKm
 uq00 00FUB_Qt00p294ORr_Uq2
 蓄t弹子[n原还槽力
@@ -75,23 +105,27 @@ sq00 00FUB_Qt0004023Tr,Tu9
 化强产生[n材素需无
 1700 00FUB_Qtu10230C!rW&t}
 1700 00FUB_Qtu10230C!r_Vu}
-子瓶时换兑[n666冠王
-0400 00FUB_Qt453508DPr_VC|
+子瓶时换兑[n899冠王
+0400 00FUB_Qt4tp708DPr_VC|
 [我方H5不减 开启m
-9610 00FUB_Qt108214OVrWVB}
+9610 00FUB_Qt16r214OVrWVB}
 9610 00FUB_Qt140000CVr,VB}
 9610 00FUB_Qt900008DPr_QB}
-9610 00FUB_Qt3v30007$r[QB}
+9610 00FUB_Qt8010904Sr[QB}
 9610 00FUB_Qt0s30F5@!rWQB}
-3p00 00FUB_Qtvq5x92B\r_]p4
+3p00 00FUB_Qtwq5x92B\r[]p4
 [我方H5不减 关闭m
-3p00 00FUB_Qt3v30007$r_]p4
-[怪物成长药快速满级m
-t300 00FUB_Qt941008DPr_]}2
+3p00 00FUB_Qt8010904Sr[]p4
+图物怪[d开全鉴
+5900 00FUB_Qt020008DPrWPB1
 [随从兽图鉴全开d
 5900 00FUB_Qt020008DPrW#s2
 因基绊牵[n开全鉴图
 5900 00FUB_Qt020008DPrWP}2
+[怪物成长药快速满级m
+t300 00FUB_Qt941008DPr_]}2
+[寒暑气候影响无效化m
+3p00 00FUB_Qt0s30F5@!r_'r6
 任副类伐讨[n成完即立务
 6800 00FUB_Qt801104O'rWVr6
 [孵化时无视等级解锁基因m
@@ -102,6 +136,24 @@ qq00 00FUB_Qt800008DPrWTEF
 qq00 00FUB_Qt882008DPrWTEF
 [大地图我方怪物体型还原m
 qq00 00FUB_Qt8218887TrWTEF
+速戏游↓/→Y←y#按[n1A/Dx}ZKuA度
+b_U|04FT
+9610 00FUB_Qt8080123Tr_RB}
+9610 00FUB_Qt1001F23Tr[RB}
+9610 00FUB_Qt8090123TrWRB}
+9610 00FUB_Qt0s30F5@!r,RB}
+u310 00FUB_Qt107|x0B\r,SF3
+b_Uv00FU
+b_U|04FQ
+9610 00FUB_Qt8080123Tr_RB}
+9610 00FUB_Qt1001023Tr[RB}
+9610 00FUB_Qt8090123TrWRB}
+9610 00FUB_Qt0s30F5@!r,RB}
+u310 00FUB_Qt107|x0B\r,SF3
+b_Uv00FU
+b_U|04F]
+u310 00FUB_Qt8080123Tr,SF3
+b_Uv00FU
 r_S[db&#
 q]_FUF00 02w37t#W
 q]_FTF00 00000wWW
